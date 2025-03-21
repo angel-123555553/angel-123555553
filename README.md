@@ -1,16 +1,13 @@
-## Hi there 👋
+𝙃𝙚𝙮𝙖, 𝙬𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚!
 
-<!--
-**angel-123555553/angel-123555553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a bachelor's degree in Computer Science at Lehman College and soon after will be pursuing my masters degree. I am very interested in video game programming.
 
-Here are some ideas to get you started:
+![200w](https://github.com/user-attachments/assets/e7077028-4eb0-44e3-a77e-2fe91e379ba7) <a height = "10"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are some languages that i am profecient in:
+
+![myskills](https://skillicons.dev/icons?i=java,mysql,nodejs,discord,gmail,kotlin)
+
+This is where you can find me, via:
+
+<a href = "https://www.linkedin.com/in/angel-doqaj-550552354" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "50"/>
