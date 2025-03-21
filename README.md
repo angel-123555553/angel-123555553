@@ -6,8 +6,10 @@ I am currently pursuing a bachelor's degree in Computer Science at Lehman Colleg
 
 These are some languages that i am profecient in:
 
-![myskills](https://skillicons.dev/icons?i=java,mysql,nodejs,discord,gmail,kotlin)
+![myskills](https://skillicons.dev/icons?i=java,mysql,nodejs,discord,kotlin)
 
 This is where you can find me, via:
 
 <a href = "https://www.linkedin.com/in/angel-doqaj-550552354" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "50"/>
+<a href = "https://mailto:angeljosephdoqaj@gmail.com" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Light.svg" height = "50"/>
+
