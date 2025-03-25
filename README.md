@@ -10,7 +10,7 @@ I'm currently pursuing a bachelor's degree in Computer Science at Lehman College
 
 I'm proficient in:
 
-![myskills](https://skillicons.dev/icons?i=java,mysql,nodejs,discord,kotlin)
+![myskills](https://skillicons.dev/icons?i=java,mysql,nodejs,kotlin)
 
 In addition to the skills shown above, I have experience with **Java**, **MySQL**, **Kotlin**, and **JavaScript**.
 
